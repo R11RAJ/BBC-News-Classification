@@ -9,6 +9,10 @@ NLTK Corpus
 Google Pre-computed Word2Vec embeddings
 Gensim library
 
+# Text Representation
+TFIDF
+Word2Vec
+
 # Classification
 <ul>
 <li>Single Classifier : SVM </li>
